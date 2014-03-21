@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="assets\Bubblescript6.js">
+    <Files>
+      <File FileName="assets\Bubblescript4.js" Line="1" Column="1" />
+      <File FileName="assets\Bubblescript5.js" Line="1" Column="1" />
+      <File FileName="assets\Bubblescript6.js" Line="174" Column="68" />
+      <File FileName="assets\Bubblescript2.js" Line="1" Column="1" />
+      <File FileName="assets\Bubblescript1.js" Line="1" Column="1" />
+      <File FileName="assets\Bubblescript3.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
